@@ -21,12 +21,16 @@ git push
 
 git clone "link do repositorio"
 
-uv add mysql-connector-python
+Criar arquivo chamado ".env" com as seguintes informações:
 
-uv add sqlalchemy
+MYSQL_USER=XXXX
 
-uv add pymysql
+MYSQL_PASSWORD="XXXX"
 
-uv add sync
+MYSQL_PORT=XXXX
+
+MYSQL_HOST=XXXXXXXX
+
+MYSQL_DATABASE=XXXXXX
 
 uv run index.py
