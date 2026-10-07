@@ -1,7 +1,6 @@
 # AV5
-Avaliação de Programação número 5
 
-Passo a Passo Github:
+# Passo a Passo Github:
 
 git clone "link do repositorio"
 
@@ -18,7 +17,7 @@ git commit -m "Comentário sobre o commit"
 git push
 
 
-Passo a Passo pra baixar Repositório e rodar:
+# Passo a Passo pra baixar Repositório e rodar:
 
 git clone "link do repositorio"
 
